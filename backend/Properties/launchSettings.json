@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HelpDesk.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58752;http://localhost:58753"
+    }
+  }
+}
